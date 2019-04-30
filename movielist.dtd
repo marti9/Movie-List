@@ -1,0 +1,10 @@
+<!ENTITY author "Martyna Kowalczyk">
+<!ELEMENT movieList (movie+)>
+<!ELEMENT movie (name,director,actor,poster)>
+<!ATTLIST movie type (document|comedy|thriller) #REQUIRED>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT director (#PCDATA)>
+<!ELEMENT actor (#PCDATA)>
+<!ELEMENT poster (#PCDATA)>
+<!ATTLIST name made_in CDATA #IMPLIED>
+<!ATTLIST actor type (foreground|supproting|episode) #REQUIRED>

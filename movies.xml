@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+<?xml-stylesheet type="text/xsl" href="style_movies.xslt"?>
+<!DOCTYPE movieList SYSTEM "movielist.dtd">
+
+<movieList>
+    <movie type="document">
+        <name made_in="France">Le sel de la terre</name>
+        <director>Juliano Ribeiro Salgado</director>    
+        <actor type="foreground">Sebastião Salgado</actor>
+        <actor type="supporting">Wim Wenders</actor>
+        <poster>https://ssl-gfx.filmweb.pl/po/93/49/709349/7708847.3.jpg</poster>
+    </movie>
+    <movie type="comedy">
+        <name made_in="USA">Meet the Parents</name>
+        <director>Jay Roach</director>    
+        <actor type="foreground">Robert De Niro</actor>
+        <actor type="supporting">Jon Abrahams</actor>
+        <actor type="episode">Phyllis George</actor>
+        <poster>https://ssl-gfx.filmweb.pl/po/14/30/1430/6927788.2.jpg</poster>
+    </movie>
+    <movie type="thriller">
+        <name made_in="USA">Nocturnal Animals</name>
+        <director>Tom Ford</director>    
+        <actor type="foreground">Amy Adams</actor>
+        <actor type="foreground">Jake Gyllenhaal</actor>
+        <actor type="supporting">Michael Shannon</actor>
+        <actor type="episode">Karl Glusman</actor>
+        <poster>https://ssl-gfx.filmweb.pl/po/49/69/744969/7756602.2.jpg</poster>
+    </movie>
+    <movie type="comedy">
+        <name made_in="France">Carnage</name>
+        <director>Roman Polański</director>    
+        <actor type="foreground">Jodie Foster</actor>
+        <actor type="foreground">Kate Winslet</actor>
+        <actor type="supporting">Christoph Waltz</actor>
+        <poster>https://ssl-gfx.filmweb.pl/po/97/42/599742/7392246.2.jpg</poster>
+    </movie>
+    <movie type="thriller">
+        <name made_in="Ireland">The Killing of a Sacred Deer</name>
+        <director>Yorgos Lanthimos</director>    
+        <actor type="foreground">Colin Farrell</actor>
+        <actor type="supporting">Nicole Kidman</actor>
+        <actor type="episode">Bill Camp</actor>
+        <poster>https://ssl-gfx.filmweb.pl/po/61/69/776169/7789830.2.jpg</poster>
+    </movie>
+    <movie type="thriller">
+        <name made_in="USA">Alien: Covenant</name>
+        <director>Ridley Scott</director>    
+        <actor type="foreground">Michael Fassbender</actor>
+        <actor type="supporting">Katherine Waterston</actor>
+        <actor type="episode">Callie Hernandez</actor>
+        <poster>https://ssl-gfx.filmweb.pl/po/54/00/665400/7787088.2.jpg</poster>
+    </movie>
+    <movie type="document">
+        <name made_in="USA">Amy</name>
+        <director>Asif Kapadia</director>    
+        <actor type="foreground">Amy Winehouse</actor>
+        <poster>https://ssl-gfx.filmweb.pl/po/16/69/701669/7695702.2.jpg</poster>
+    </movie>
+    <movie type="thriller">
+        <name made_in="USA">Wind River</name>
+        <director>Taylor Sheridan</director>    
+        <actor type="foreground">Jeremy Renner</actor>
+        <actor type="supporting">Elizabeth Olsen</actor>
+        <actor type="episode">Gil Birmingham</actor>
+        <poster>https://ssl-gfx.filmweb.pl/po/38/12/763812/7814100.2.jpg</poster>
+    </movie>
+    <movie type="thriller">
+        <name made_in="USA">Get Out</name>
+        <director>Jordan Peele</director>    
+        <actor type="foreground">Daniel Kaluuya</actor>
+        <actor type="supporting">Allison Williams</actor>
+        <actor type="episode">Lakeith Stanfield</actor>
+        <poster>https://ssl-gfx.filmweb.pl/po/07/04/750704/7779818.2.jpg</poster>
+    </movie>
+    <movie type="thriller">
+        <name made_in="USA">Split</name>
+        <director>M. Night Shyamalan</director>    
+        <actor type="foreground">James McAvoy</actor>
+        <actor type="supporting">Anya Taylor-Joy</actor>
+        <actor type="episode">Brad William Henke</actor>
+        <poster>https://ssl-gfx.filmweb.pl/po/02/58/750258/7773797.2.jpg</poster>
+    </movie>
+</movieList>

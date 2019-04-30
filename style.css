@@ -1,0 +1,49 @@
+body {
+    padding: auto;
+    margin-left: 5%;
+    background-color: #AFD5D5;
+    width: 50%;
+}
+
+filmtitle{
+    font-size:16pt;
+    color: #603B4D;
+    text-decoration: underline;
+}
+
+genre{
+    font-size:14pt;
+    color: #9A7989;
+    text-decoration: overline;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+ 
+.film {
+     margin-bottom: 1em;
+     color: black;
+     margin-left: 2px;
+     float: none;
+     border: 5px solid black;
+}
+
+.film_onlist{
+    height: 300px;
+    border: 3px dotted black;
+    margin: 2px;
+    padding: 5px;
+}
+
+div.poster{
+    position: left;
+    float: left;
+    width: 20%;
+    margin: 2px;
+}
+
+actors{
+    font-size: 12pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
